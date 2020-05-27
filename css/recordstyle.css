@@ -118,6 +118,8 @@ section {
 
 .sub-container4 {
     font-size: 12px;
+    margin: auto;
+    align-items: center;
 }
 
 .sub-container4 ul {
@@ -166,7 +168,7 @@ span input{
 }
 
 .welcome {
-    width: 375px;
+    width: 100%;
     margin: auto;
     text-align: center;
     font-size: 10px;
@@ -181,7 +183,7 @@ span input{
 }
 
 .image1 {
-    width: 375px;
+    width: 100%;
     position: relative;
     margin: auto;
     width: fit-content;
